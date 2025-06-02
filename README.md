@@ -1,4 +1,4 @@
-<h1 align="center">Assalam Alaikum! 👋🏼, Maryam Here</h1>
+<h1 align="center">Assalam Alaikum! 👋🏼, Maryam Here!</h1>
 <h3 align="center">I am an SQA Engineer, a passionate individual who loves everything related to software quality assurance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam2027&label=Profile%20views&color=0e75b6&style=flat" alt="maryam2027" /> </p>
